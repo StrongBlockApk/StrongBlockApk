@@ -1,7 +1,7 @@
 # Download Coolwallet Apk
 ## Download APK
 
-[![Download APK](11.jpg)](link) ]
+[![Download APK](11.png)](link) ]
 
 Click the image above to download the APK file.
 
